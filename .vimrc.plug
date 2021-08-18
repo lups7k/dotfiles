@@ -1,0 +1,15 @@
+call plug#begin('~/.vim/plugged')
+
+"Fugitive Vim Github Wrapper
+Plug 'tpope/vim-fugitive'
+
+"Oceanic Next plugin
+Plug 'mhartington/oceanic-next'
+
+" papercolor-theme Plugin
+Plug 'NLKNguyen/papercolor-theme'
+
+" Nerd Tree plugin
+Plug 'scrooloose/nerdtree'
+
+call plug#end()
