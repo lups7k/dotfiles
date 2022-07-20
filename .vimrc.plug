@@ -2,14 +2,14 @@ call plug#begin('~/.vim/plugged')
 
 "Fugitive Vim Github Wrapper
 Plug 'tpope/vim-fugitive'
-
-"Oceanic Next plugin
-Plug 'mhartington/oceanic-next'
-
-" papercolor-theme Plugin
-Plug 'NLKNguyen/papercolor-theme'
-
-" Nerd Tree plugin
 Plug 'scrooloose/nerdtree'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'gkeep/iceberg-dark'
+Plug 'ulwlu/abyss.vim'
+Plug 'mhinz/vim-startify'
+Plug 'kien/ctrlp.vim'
+Plug 'vimsence/vimsence'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 call plug#end()
