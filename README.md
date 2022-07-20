@@ -10,4 +10,4 @@ Vim dotfiles:
 
 
 Kitty dotfile:
-  - Remember kitty.conf is located at `.config/kitty/kitty.conf`
+  - Remember kitty.conf is located at `~/.config/kitty/kitty.conf`
