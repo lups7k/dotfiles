@@ -1,5 +1,5 @@
 # dotfiles
-my dotfiles from Linux.
+my dotfiles from Linux & MacOS.
 
 Vim dotfiles:
   
